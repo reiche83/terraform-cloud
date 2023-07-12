@@ -34,5 +34,5 @@ output "jones" {
 }
 /* a list of local variables */
 locals {
-  jones = ["indy", "henry", "marian", "katanga"]
+  jone = ["indy", "henry", "marian", "katanga"]
 }
